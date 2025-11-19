@@ -1,4 +1,4 @@
-
+<h2 align="center""> <em> Contacts </em> </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/vladyslava-ishchuk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
