@@ -44,9 +44,7 @@
 <h2 align="center""> <em> Statistics </em> </h2>
 
 <div align = "center"> 
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qwijhxs&theme=youtube-dark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-
 <h2 align="center""> <em> Contacts </em> </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/vladyslava-ishchuk/" target="_blank">
