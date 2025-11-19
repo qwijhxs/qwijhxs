@@ -45,8 +45,7 @@
 
 <div align = "center"> 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qwijhxs&theme=youtube-dark&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qwijhxs&theme=youtube-dark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 <h2 align="center""> <em> Contacts </em> </h2>
 <p align="center">
